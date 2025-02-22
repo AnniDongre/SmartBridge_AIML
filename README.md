@@ -1,7 +1,6 @@
 # SmartBridge_AIML
 
-## Assignment No - 1
-
-**Take a usecase in any domain and explain below points properly**
-- Data : Data Sources, Data Issues, Types of Data
-- Problem Statement
+| Date | Topic Name | Learning |
+|-------| ----------| ---------|
+|31st Jan 2025 | Introduction of Data Science | Uses cases and Based on that write the Problem Statement|
+|--------------|---------------------------|----------------------------------------------------------|
