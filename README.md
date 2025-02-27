@@ -8,3 +8,4 @@
 |5th Feb 2025  | Libraries                    | Pandas, matplotlib, Scikit-Learn
 |6th Feb 2025  | Regression Model              | Linear and Logistic Regression                          |
 |7th Feb 2025  | Introduction of Machine Learning  | Types of ML                                          |
+|10th Feb 2025| Data Preprosessing      |ML Model Cycle, Data preparation, etc                                                                                         |
